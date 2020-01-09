@@ -1,0 +1,486 @@
+C:\Users\$ARVARBEK\Desktop\MapViewer\MapViewer\bin\Debug\MapViewer.exe.config
+C:\Users\$ARVARBEK\Desktop\MapViewer\MapViewer\obj\Debug\MapViewer.csprojResolveAssemblyReference.cache
+C:\Users\$ARVARBEK\Desktop\MapViewer\MapViewer\obj\Debug\MapViewer.Form1.resources
+C:\Users\$ARVARBEK\Desktop\MapViewer\MapViewer\obj\Debug\MapViewer.Properties.Resources.resources
+C:\Users\$ARVARBEK\Desktop\MapViewer\MapViewer\obj\Debug\MapViewer.csproj.GenerateResource.Cache
+C:\Users\$ARVARBEK\Desktop\MapViewer\MapViewer\bin\Debug\MapViewer.exe
+C:\Users\$ARVARBEK\Desktop\MapViewer\MapViewer\bin\Debug\MapViewer.pdb
+C:\Users\$ARVARBEK\Desktop\MapViewer\MapViewer\bin\Debug\ESRI.ArcGIS.ADF.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer\MapViewer\bin\Debug\ESRI.ArcGIS.AxControls.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer\MapViewer\bin\Debug\ESRI.ArcGIS.Version.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer\MapViewer\bin\Debug\Esri.ArcGISRuntime.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer\MapViewer\bin\Debug\ESRI.ArcGIS.Geodatabase.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer\MapViewer\bin\Debug\ESRI.ArcGIS.Server.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer\MapViewer\bin\Debug\ESRI.ArcGIS.ADF.xml
+C:\Users\$ARVARBEK\Desktop\MapViewer\MapViewer\bin\Debug\Esri.ArcGISRuntime.xml
+C:\Users\$ARVARBEK\Desktop\MapViewer\MapViewer\bin\Debug\ESRI.ArcGIS.Geodatabase.xml
+C:\Users\$ARVARBEK\Desktop\MapViewer\MapViewer\bin\Debug\ESRI.ArcGIS.Server.xml
+C:\Users\$ARVARBEK\Desktop\MapViewer\MapViewer\bin\Debug\ar\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer\MapViewer\bin\Debug\cs\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer\MapViewer\bin\Debug\da\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer\MapViewer\bin\Debug\de\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer\MapViewer\bin\Debug\el\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer\MapViewer\bin\Debug\es\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer\MapViewer\bin\Debug\et\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer\MapViewer\bin\Debug\fi\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer\MapViewer\bin\Debug\fr\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer\MapViewer\bin\Debug\he\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer\MapViewer\bin\Debug\hr\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer\MapViewer\bin\Debug\id\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer\MapViewer\bin\Debug\it\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer\MapViewer\bin\Debug\ja\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer\MapViewer\bin\Debug\ko\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer\MapViewer\bin\Debug\lt\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer\MapViewer\bin\Debug\lv\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer\MapViewer\bin\Debug\nb-NO\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer\MapViewer\bin\Debug\nl\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer\MapViewer\bin\Debug\no\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer\MapViewer\bin\Debug\pl\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer\MapViewer\bin\Debug\pt-BR\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer\MapViewer\bin\Debug\pt-PT\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer\MapViewer\bin\Debug\ro\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer\MapViewer\bin\Debug\ru\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer\MapViewer\bin\Debug\sr\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer\MapViewer\bin\Debug\sv\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer\MapViewer\bin\Debug\th\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer\MapViewer\bin\Debug\tr\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer\MapViewer\bin\Debug\vi\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer\MapViewer\bin\Debug\zh-CN\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer\MapViewer\bin\Debug\zh-Hans\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer\MapViewer\bin\Debug\zh-HK\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer\MapViewer\bin\Debug\zh-TW\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer\MapViewer\obj\Debug\MapViewer.exe
+C:\Users\$ARVARBEK\Desktop\MapViewer\MapViewer\obj\Debug\MapViewer.pdb
+C:\Users\$ARVARBEK\Desktop\MapViewer — копия\MapViewer\bin\Debug\MapViewer.exe.config
+C:\Users\$ARVARBEK\Desktop\MapViewer — копия\MapViewer\obj\Debug\MapViewer.exe
+C:\Users\$ARVARBEK\Desktop\MapViewer — копия\MapViewer\obj\Debug\MapViewer.pdb
+C:\Users\$ARVARBEK\Desktop\MapViewer — копия\MapViewer\bin\Debug\MapViewer.exe
+C:\Users\$ARVARBEK\Desktop\MapViewer — копия\MapViewer\bin\Debug\MapViewer.pdb
+C:\Users\$ARVARBEK\Desktop\MapViewer — копия\MapViewer\bin\Debug\ESRI.ArcGIS.ADF.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer — копия\MapViewer\bin\Debug\ESRI.ArcGIS.AxControls.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer — копия\MapViewer\bin\Debug\ESRI.ArcGIS.Version.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer — копия\MapViewer\bin\Debug\Esri.ArcGISRuntime.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer — копия\MapViewer\bin\Debug\ESRI.ArcGIS.Geodatabase.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer — копия\MapViewer\bin\Debug\ESRI.ArcGIS.Server.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer — копия\MapViewer\bin\Debug\ESRI.ArcGIS.ADF.xml
+C:\Users\$ARVARBEK\Desktop\MapViewer — копия\MapViewer\bin\Debug\Esri.ArcGISRuntime.xml
+C:\Users\$ARVARBEK\Desktop\MapViewer — копия\MapViewer\bin\Debug\ESRI.ArcGIS.Geodatabase.xml
+C:\Users\$ARVARBEK\Desktop\MapViewer — копия\MapViewer\bin\Debug\ESRI.ArcGIS.Server.xml
+C:\Users\$ARVARBEK\Desktop\MapViewer — копия\MapViewer\bin\Debug\ar\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer — копия\MapViewer\bin\Debug\cs\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer — копия\MapViewer\bin\Debug\da\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer — копия\MapViewer\bin\Debug\de\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer — копия\MapViewer\bin\Debug\el\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer — копия\MapViewer\bin\Debug\es\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer — копия\MapViewer\bin\Debug\et\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer — копия\MapViewer\bin\Debug\fi\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer — копия\MapViewer\bin\Debug\fr\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer — копия\MapViewer\bin\Debug\he\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer — копия\MapViewer\bin\Debug\hr\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer — копия\MapViewer\bin\Debug\id\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer — копия\MapViewer\bin\Debug\it\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer — копия\MapViewer\bin\Debug\ja\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer — копия\MapViewer\bin\Debug\ko\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer — копия\MapViewer\bin\Debug\lt\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer — копия\MapViewer\bin\Debug\lv\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer — копия\MapViewer\bin\Debug\nb-NO\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer — копия\MapViewer\bin\Debug\nl\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer — копия\MapViewer\bin\Debug\no\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer — копия\MapViewer\bin\Debug\pl\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer — копия\MapViewer\bin\Debug\pt-BR\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer — копия\MapViewer\bin\Debug\pt-PT\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer — копия\MapViewer\bin\Debug\ro\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer — копия\MapViewer\bin\Debug\ru\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer — копия\MapViewer\bin\Debug\sr\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer — копия\MapViewer\bin\Debug\sv\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer — копия\MapViewer\bin\Debug\th\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer — копия\MapViewer\bin\Debug\tr\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer — копия\MapViewer\bin\Debug\vi\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer — копия\MapViewer\bin\Debug\zh-CN\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer — копия\MapViewer\bin\Debug\zh-Hans\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer — копия\MapViewer\bin\Debug\zh-HK\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer — копия\MapViewer\bin\Debug\zh-TW\Esri.ArcGISRuntime.resources.dll
+C:\Users\$ARVARBEK\Desktop\MapViewer — копия\MapViewer\obj\Debug\MapViewer.csprojResolveAssemblyReference.cache
+C:\Users\$ARVARBEK\Desktop\MapViewer — копия\MapViewer\obj\Debug\MapViewer.Form1.resources
+C:\Users\$ARVARBEK\Desktop\MapViewer — копия\MapViewer\obj\Debug\MapViewer.Properties.Resources.resources
+C:\Users\$ARVARBEK\Desktop\MapViewer — копия\MapViewer\obj\Debug\MapViewer.csproj.GenerateResource.Cache
+D:\Для патента (NEW)\MapGEOECORISK — копия\MapViewer\bin\Debug\MapViewer.exe.config
+D:\Для патента (NEW)\MapGEOECORISK — копия\MapViewer\bin\Debug\MapViewer.exe
+D:\Для патента (NEW)\MapGEOECORISK — копия\MapViewer\bin\Debug\MapViewer.pdb
+D:\Для патента (NEW)\MapGEOECORISK — копия\MapViewer\bin\Debug\Esri.ArcGISRuntime.dll
+D:\Для патента (NEW)\MapGEOECORISK — копия\MapViewer\bin\Debug\Esri.ArcGISRuntime.xml
+D:\Для патента (NEW)\MapGEOECORISK — копия\MapViewer\bin\Debug\ar\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\MapGEOECORISK — копия\MapViewer\bin\Debug\cs\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\MapGEOECORISK — копия\MapViewer\bin\Debug\da\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\MapGEOECORISK — копия\MapViewer\bin\Debug\de\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\MapGEOECORISK — копия\MapViewer\bin\Debug\el\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\MapGEOECORISK — копия\MapViewer\bin\Debug\es\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\MapGEOECORISK — копия\MapViewer\bin\Debug\et\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\MapGEOECORISK — копия\MapViewer\bin\Debug\fi\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\MapGEOECORISK — копия\MapViewer\bin\Debug\fr\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\MapGEOECORISK — копия\MapViewer\bin\Debug\he\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\MapGEOECORISK — копия\MapViewer\bin\Debug\hr\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\MapGEOECORISK — копия\MapViewer\bin\Debug\id\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\MapGEOECORISK — копия\MapViewer\bin\Debug\it\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\MapGEOECORISK — копия\MapViewer\bin\Debug\ja\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\MapGEOECORISK — копия\MapViewer\bin\Debug\ko\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\MapGEOECORISK — копия\MapViewer\bin\Debug\lt\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\MapGEOECORISK — копия\MapViewer\bin\Debug\lv\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\MapGEOECORISK — копия\MapViewer\bin\Debug\nb-NO\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\MapGEOECORISK — копия\MapViewer\bin\Debug\nl\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\MapGEOECORISK — копия\MapViewer\bin\Debug\no\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\MapGEOECORISK — копия\MapViewer\bin\Debug\pl\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\MapGEOECORISK — копия\MapViewer\bin\Debug\pt-BR\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\MapGEOECORISK — копия\MapViewer\bin\Debug\pt-PT\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\MapGEOECORISK — копия\MapViewer\bin\Debug\ro\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\MapGEOECORISK — копия\MapViewer\bin\Debug\ru\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\MapGEOECORISK — копия\MapViewer\bin\Debug\sr\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\MapGEOECORISK — копия\MapViewer\bin\Debug\sv\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\MapGEOECORISK — копия\MapViewer\bin\Debug\th\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\MapGEOECORISK — копия\MapViewer\bin\Debug\tr\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\MapGEOECORISK — копия\MapViewer\bin\Debug\vi\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\MapGEOECORISK — копия\MapViewer\bin\Debug\zh-CN\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\MapGEOECORISK — копия\MapViewer\bin\Debug\zh-Hans\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\MapGEOECORISK — копия\MapViewer\bin\Debug\zh-HK\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\MapGEOECORISK — копия\MapViewer\bin\Debug\zh-TW\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\MapGEOECORISK — копия\MapViewer\bin\Debug\AxInterop.esriPublisherControls.dll
+D:\Для патента (NEW)\MapGEOECORISK — копия\MapViewer\obj\Debug\AxInterop.esriPublisherControls.dll
+D:\Для патента (NEW)\MapGEOECORISK — копия\MapViewer\obj\Debug\MapViewer.csproj.ResolveComReference.cache
+D:\Для патента (NEW)\MapGEOECORISK — копия\MapViewer\obj\Debug\MapViewer.Form1.resources
+D:\Для патента (NEW)\MapGEOECORISK — копия\MapViewer\obj\Debug\MapViewer.Properties.Resources.resources
+D:\Для патента (NEW)\MapGEOECORISK — копия\MapViewer\obj\Debug\MapViewer.csproj.GenerateResource.Cache
+D:\Для патента (NEW)\MapGEOECORISK — копия\MapViewer\obj\Debug\MapViewer.exe
+D:\Для патента (NEW)\MapGEOECORISK — копия\MapViewer\obj\Debug\MapViewer.pdb
+D:\Для патента (NEW)\MapGEOECORISK — копия\MapViewer\obj\Debug\MapViewer.csprojResolveAssemblyReference.cache
+D:\Для патента (NEW)\Map Viewer\MapViewer\bin\Debug\MapViewer.exe.config
+D:\Для патента (NEW)\Map Viewer\MapViewer\obj\Debug\AxInterop.esriPublisherControls.dll
+D:\Для патента (NEW)\Map Viewer\MapViewer\obj\Debug\MapViewer.csproj.ResolveComReference.cache
+D:\Для патента (NEW)\Map Viewer\MapViewer\obj\Debug\MapViewer.exe
+D:\Для патента (NEW)\Map Viewer\MapViewer\obj\Debug\MapViewer.pdb
+D:\Для патента (NEW)\Map Viewer\MapViewer\bin\Debug\MapViewer.exe
+D:\Для патента (NEW)\Map Viewer\MapViewer\bin\Debug\MapViewer.pdb
+D:\Для патента (NEW)\Map Viewer\MapViewer\bin\Debug\Esri.ArcGISRuntime.dll
+D:\Для патента (NEW)\Map Viewer\MapViewer\bin\Debug\Esri.ArcGISRuntime.xml
+D:\Для патента (NEW)\Map Viewer\MapViewer\bin\Debug\ar\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\Map Viewer\MapViewer\bin\Debug\cs\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\Map Viewer\MapViewer\bin\Debug\da\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\Map Viewer\MapViewer\bin\Debug\de\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\Map Viewer\MapViewer\bin\Debug\el\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\Map Viewer\MapViewer\bin\Debug\es\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\Map Viewer\MapViewer\bin\Debug\et\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\Map Viewer\MapViewer\bin\Debug\fi\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\Map Viewer\MapViewer\bin\Debug\fr\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\Map Viewer\MapViewer\bin\Debug\he\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\Map Viewer\MapViewer\bin\Debug\hr\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\Map Viewer\MapViewer\bin\Debug\id\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\Map Viewer\MapViewer\bin\Debug\it\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\Map Viewer\MapViewer\bin\Debug\ja\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\Map Viewer\MapViewer\bin\Debug\ko\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\Map Viewer\MapViewer\bin\Debug\lt\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\Map Viewer\MapViewer\bin\Debug\lv\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\Map Viewer\MapViewer\bin\Debug\nb-NO\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\Map Viewer\MapViewer\bin\Debug\nl\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\Map Viewer\MapViewer\bin\Debug\no\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\Map Viewer\MapViewer\bin\Debug\pl\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\Map Viewer\MapViewer\bin\Debug\pt-BR\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\Map Viewer\MapViewer\bin\Debug\pt-PT\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\Map Viewer\MapViewer\bin\Debug\ro\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\Map Viewer\MapViewer\bin\Debug\ru\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\Map Viewer\MapViewer\bin\Debug\sr\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\Map Viewer\MapViewer\bin\Debug\sv\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\Map Viewer\MapViewer\bin\Debug\th\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\Map Viewer\MapViewer\bin\Debug\tr\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\Map Viewer\MapViewer\bin\Debug\vi\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\Map Viewer\MapViewer\bin\Debug\zh-CN\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\Map Viewer\MapViewer\bin\Debug\zh-Hans\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\Map Viewer\MapViewer\bin\Debug\zh-HK\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\Map Viewer\MapViewer\bin\Debug\zh-TW\Esri.ArcGISRuntime.resources.dll
+D:\Для патента (NEW)\Map Viewer\MapViewer\bin\Debug\AxInterop.esriPublisherControls.dll
+D:\Для патента (NEW)\Map Viewer\MapViewer\obj\Debug\MapViewer.csprojResolveAssemblyReference.cache
+D:\Для патента (NEW)\Map Viewer\MapViewer\obj\Debug\MapViewer.Form1.resources
+D:\Для патента (NEW)\Map Viewer\MapViewer\obj\Debug\MapViewer.Properties.Resources.resources
+D:\Для патента (NEW)\Map Viewer\MapViewer\obj\Debug\MapViewer.csproj.GenerateResource.Cache
+D:\Map Editor\Map Viewer Version\Map Viewer0\MapViewer\bin\Debug\MapViewer.exe.config
+D:\Map Editor\Map Viewer Version\Map Viewer0\MapViewer\obj\Debug\AxInterop.esriPublisherControls.dll
+D:\Map Editor\Map Viewer Version\Map Viewer0\MapViewer\obj\Debug\MapViewer.csproj.ResolveComReference.cache
+D:\Map Editor\Map Viewer Version\Map Viewer0\MapViewer\obj\Debug\MapViewer.exe
+D:\Map Editor\Map Viewer Version\Map Viewer0\MapViewer\obj\Debug\MapViewer.pdb
+D:\Map Editor\Map Viewer\MapViewer\obj\Debug\Interop.esriDataInterop.dll
+D:\Map Editor\Map Viewer\MapViewer\obj\Debug\Interop.esriDataInteropUI.dll
+D:\Map Editor\Map Viewer\MapViewer\obj\Debug\Interop.esriSearch.dll
+D:\Map Editor\Map Viewer\MapViewer\obj\Debug\AxInterop.esriPublisherControls.dll
+D:\Map Editor\Map Viewer\MapViewer\obj\Debug\MapViewer.csproj.ResolveComReference.cache
+D:\Map Editor\Map Viewer\MapViewer\obj\Debug\MapViewer.Form1.resources
+D:\Map Editor\Map Viewer\MapViewer\obj\Debug\MapViewer.Properties.Resources.resources
+D:\Map Editor\Map Viewer\MapViewer\obj\Debug\MapViewer.csproj.GenerateResource.Cache
+D:\Map Editor\Map Viewer\MapViewer\bin\Debug\MapViewer.exe.config
+D:\Map Editor\Map Viewer\MapViewer\bin\Debug\MapViewer.exe
+D:\Map Editor\Map Viewer\MapViewer\bin\Debug\MapViewer.pdb
+D:\Map Editor\Map Viewer\MapViewer\bin\Debug\Esri.ArcGISRuntime.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Debug\Esri.ArcGISRuntime.xml
+D:\Map Editor\Map Viewer\MapViewer\bin\Debug\ar\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Debug\cs\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Debug\da\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Debug\de\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Debug\el\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Debug\es\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Debug\et\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Debug\fi\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Debug\fr\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Debug\he\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Debug\hr\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Debug\id\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Debug\it\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Debug\ja\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Debug\ko\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Debug\lt\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Debug\lv\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Debug\nb-NO\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Debug\nl\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Debug\no\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Debug\pl\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Debug\pt-BR\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Debug\pt-PT\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Debug\ro\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Debug\ru\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Debug\sr\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Debug\sv\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Debug\th\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Debug\tr\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Debug\vi\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Debug\zh-CN\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Debug\zh-Hans\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Debug\zh-HK\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Debug\zh-TW\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Debug\Interop.esriDataInterop.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Debug\Interop.esriDataInteropUI.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Debug\Interop.esriSearch.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Debug\AxInterop.esriPublisherControls.dll
+D:\Map Editor\Map Viewer\MapViewer\obj\Debug\MapViewer.exe
+D:\Map Editor\Map Viewer\MapViewer\obj\Debug\MapViewer.pdb
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Debug\MapViewer.exe.config
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\obj\Debug\Interop.esriDataInterop.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\obj\Debug\Interop.esriDataInteropUI.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\obj\Debug\Interop.esriSearch.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\obj\Debug\AxInterop.esriPublisherControls.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\obj\Debug\MapViewer.csproj.ResolveComReference.cache
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\obj\Debug\MapViewer.exe
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\obj\Debug\MapViewer.pdb
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Debug\MapViewer.exe
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Debug\MapViewer.pdb
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Debug\Esri.ArcGISRuntime.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Debug\Esri.ArcGISRuntime.xml
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Debug\ar\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Debug\cs\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Debug\da\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Debug\de\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Debug\el\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Debug\es\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Debug\et\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Debug\fi\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Debug\fr\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Debug\he\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Debug\hr\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Debug\id\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Debug\it\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Debug\ja\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Debug\ko\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Debug\lt\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Debug\lv\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Debug\nb-NO\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Debug\nl\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Debug\no\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Debug\pl\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Debug\pt-BR\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Debug\pt-PT\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Debug\ro\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Debug\ru\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Debug\sr\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Debug\sv\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Debug\th\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Debug\tr\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Debug\vi\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Debug\zh-CN\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Debug\zh-Hans\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Debug\zh-HK\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Debug\zh-TW\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Debug\Interop.esriDataInterop.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Debug\Interop.esriDataInteropUI.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Debug\Interop.esriSearch.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Debug\AxInterop.esriPublisherControls.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\obj\Debug\MapViewer.Form1.resources
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\obj\Debug\MapViewer.Properties.Resources.resources
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\obj\Debug\MapViewer.csproj.GenerateResource.Cache
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\obj\Debug\MapViewer.frmSymbol.resources
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\obj\Debug\MapViewer.csprojResolveAssemblyReference.cache
+D:\Map Editor\Map Viewer (Proverka) — копия\MapViewer\bin\Debug\MapViewer.exe.config
+D:\Map Editor\Map Viewer (Proverka) — копия\MapViewer\obj\Debug\Interop.esriDataInterop.dll
+D:\Map Editor\Map Viewer (Proverka) — копия\MapViewer\obj\Debug\Interop.esriDataInteropUI.dll
+D:\Map Editor\Map Viewer (Proverka) — копия\MapViewer\obj\Debug\Interop.esriSearch.dll
+D:\Map Editor\Map Viewer (Proverka) — копия\MapViewer\obj\Debug\AxInterop.esriPublisherControls.dll
+D:\Map Editor\Map Viewer (Proverka) — копия\MapViewer\obj\Debug\MapViewer.csproj.ResolveComReference.cache
+D:\Map Editor\Map Viewer (Proverka) — копия\MapViewer\obj\Debug\MapViewer.exe
+D:\Map Editor\Map Viewer (Proverka) — копия\MapViewer\obj\Debug\MapViewer.pdb
+D:\Map Editor\Map Viewer (Proverka) — копия\MapViewer\bin\Debug\MapViewer.exe
+D:\Map Editor\Map Viewer (Proverka) — копия\MapViewer\bin\Debug\MapViewer.pdb
+D:\Map Editor\Map Viewer (Proverka) — копия\MapViewer\bin\Debug\Esri.ArcGISRuntime.dll
+D:\Map Editor\Map Viewer (Proverka) — копия\MapViewer\bin\Debug\Esri.ArcGISRuntime.xml
+D:\Map Editor\Map Viewer (Proverka) — копия\MapViewer\bin\Debug\ar\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия\MapViewer\bin\Debug\cs\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия\MapViewer\bin\Debug\da\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия\MapViewer\bin\Debug\de\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия\MapViewer\bin\Debug\el\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия\MapViewer\bin\Debug\es\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия\MapViewer\bin\Debug\et\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия\MapViewer\bin\Debug\fi\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия\MapViewer\bin\Debug\fr\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия\MapViewer\bin\Debug\he\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия\MapViewer\bin\Debug\hr\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия\MapViewer\bin\Debug\id\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия\MapViewer\bin\Debug\it\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия\MapViewer\bin\Debug\ja\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия\MapViewer\bin\Debug\ko\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия\MapViewer\bin\Debug\lt\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия\MapViewer\bin\Debug\lv\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия\MapViewer\bin\Debug\nb-NO\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия\MapViewer\bin\Debug\nl\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия\MapViewer\bin\Debug\no\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия\MapViewer\bin\Debug\pl\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия\MapViewer\bin\Debug\pt-BR\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия\MapViewer\bin\Debug\pt-PT\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия\MapViewer\bin\Debug\ro\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия\MapViewer\bin\Debug\ru\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия\MapViewer\bin\Debug\sr\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия\MapViewer\bin\Debug\sv\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия\MapViewer\bin\Debug\th\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия\MapViewer\bin\Debug\tr\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия\MapViewer\bin\Debug\vi\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия\MapViewer\bin\Debug\zh-CN\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия\MapViewer\bin\Debug\zh-Hans\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия\MapViewer\bin\Debug\zh-HK\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия\MapViewer\bin\Debug\zh-TW\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия\MapViewer\bin\Debug\Interop.esriDataInterop.dll
+D:\Map Editor\Map Viewer (Proverka) — копия\MapViewer\bin\Debug\Interop.esriDataInteropUI.dll
+D:\Map Editor\Map Viewer (Proverka) — копия\MapViewer\bin\Debug\Interop.esriSearch.dll
+D:\Map Editor\Map Viewer (Proverka) — копия\MapViewer\bin\Debug\AxInterop.esriPublisherControls.dll
+D:\Map Editor\Map Viewer (Proverka) — копия\MapViewer\obj\Debug\MapViewer.csprojResolveAssemblyReference.cache
+D:\Map Editor\Map Viewer (Proverka) — копия\MapViewer\obj\Debug\MapViewer.Form1.resources
+D:\Map Editor\Map Viewer (Proverka) — копия\MapViewer\obj\Debug\MapViewer.Properties.Resources.resources
+D:\Map Editor\Map Viewer (Proverka) — копия\MapViewer\obj\Debug\MapViewer.frmSymbol.resources
+D:\Map Editor\Map Viewer (Proverka) — копия\MapViewer\obj\Debug\MapViewer.csproj.GenerateResource.Cache
+D:\Map Editor\Map Viewer (Proverka) — копия — копия\MapViewer\bin\Debug\MapViewer.exe.config
+D:\Map Editor\Map Viewer (Proverka) — копия — копия\MapViewer\obj\Debug\Interop.esriDataInterop.dll
+D:\Map Editor\Map Viewer (Proverka) — копия — копия\MapViewer\obj\Debug\Interop.esriDataInteropUI.dll
+D:\Map Editor\Map Viewer (Proverka) — копия — копия\MapViewer\obj\Debug\Interop.esriSearch.dll
+D:\Map Editor\Map Viewer (Proverka) — копия — копия\MapViewer\obj\Debug\AxInterop.esriPublisherControls.dll
+D:\Map Editor\Map Viewer (Proverka) — копия — копия\MapViewer\obj\Debug\MapViewer.csproj.ResolveComReference.cache
+D:\Map Editor\Map Viewer (Proverka) — копия — копия\MapViewer\obj\Debug\MapViewer.exe
+D:\Map Editor\Map Viewer (Proverka) — копия — копия\MapViewer\obj\Debug\MapViewer.pdb
+D:\Map Editor\Map Viewer (Proverka) — копия — копия\MapViewer\bin\Debug\MapViewer.exe
+D:\Map Editor\Map Viewer (Proverka) — копия — копия\MapViewer\bin\Debug\MapViewer.pdb
+D:\Map Editor\Map Viewer (Proverka) — копия — копия\MapViewer\bin\Debug\Esri.ArcGISRuntime.dll
+D:\Map Editor\Map Viewer (Proverka) — копия — копия\MapViewer\bin\Debug\Esri.ArcGISRuntime.xml
+D:\Map Editor\Map Viewer (Proverka) — копия — копия\MapViewer\bin\Debug\ar\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия — копия\MapViewer\bin\Debug\cs\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия — копия\MapViewer\bin\Debug\da\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия — копия\MapViewer\bin\Debug\de\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия — копия\MapViewer\bin\Debug\el\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия — копия\MapViewer\bin\Debug\es\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия — копия\MapViewer\bin\Debug\et\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия — копия\MapViewer\bin\Debug\fi\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия — копия\MapViewer\bin\Debug\fr\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия — копия\MapViewer\bin\Debug\he\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия — копия\MapViewer\bin\Debug\hr\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия — копия\MapViewer\bin\Debug\id\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия — копия\MapViewer\bin\Debug\it\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия — копия\MapViewer\bin\Debug\ja\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия — копия\MapViewer\bin\Debug\ko\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия — копия\MapViewer\bin\Debug\lt\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия — копия\MapViewer\bin\Debug\lv\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия — копия\MapViewer\bin\Debug\nb-NO\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия — копия\MapViewer\bin\Debug\nl\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия — копия\MapViewer\bin\Debug\no\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия — копия\MapViewer\bin\Debug\pl\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия — копия\MapViewer\bin\Debug\pt-BR\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия — копия\MapViewer\bin\Debug\pt-PT\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия — копия\MapViewer\bin\Debug\ro\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия — копия\MapViewer\bin\Debug\ru\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия — копия\MapViewer\bin\Debug\sr\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия — копия\MapViewer\bin\Debug\sv\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия — копия\MapViewer\bin\Debug\th\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия — копия\MapViewer\bin\Debug\tr\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия — копия\MapViewer\bin\Debug\vi\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия — копия\MapViewer\bin\Debug\zh-CN\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия — копия\MapViewer\bin\Debug\zh-Hans\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия — копия\MapViewer\bin\Debug\zh-HK\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия — копия\MapViewer\bin\Debug\zh-TW\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka) — копия — копия\MapViewer\bin\Debug\Interop.esriDataInterop.dll
+D:\Map Editor\Map Viewer (Proverka) — копия — копия\MapViewer\bin\Debug\Interop.esriDataInteropUI.dll
+D:\Map Editor\Map Viewer (Proverka) — копия — копия\MapViewer\bin\Debug\Interop.esriSearch.dll
+D:\Map Editor\Map Viewer (Proverka) — копия — копия\MapViewer\bin\Debug\AxInterop.esriPublisherControls.dll
+D:\Map Editor\Map Viewer (Proverka) — копия — копия\MapViewer\obj\Debug\MapViewer.csprojResolveAssemblyReference.cache
+D:\Map Editor\Map Viewer (Proverka) — копия — копия\MapViewer\obj\Debug\MapViewer.Form1.resources
+D:\Map Editor\Map Viewer (Proverka) — копия — копия\MapViewer\obj\Debug\MapViewer.Properties.Resources.resources
+D:\Map Editor\Map Viewer (Proverka) — копия — копия\MapViewer\obj\Debug\MapViewer.frmSymbol.resources
+D:\Map Editor\Map Viewer (Proverka) — копия — копия\MapViewer\obj\Debug\MapViewer.csproj.GenerateResource.Cache
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Debug\MapViewer.exe.config
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\obj\Debug\Interop.esriDataInterop.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\obj\Debug\Interop.esriDataInteropUI.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\obj\Debug\Interop.esriSearch.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\obj\Debug\AxInterop.esriPublisherControls.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\obj\Debug\MapViewer.csproj.ResolveComReference.cache
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\obj\Debug\MapViewer.exe
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\obj\Debug\MapViewer.pdb
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Debug\MapViewer.exe
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Debug\MapViewer.pdb
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Debug\Esri.ArcGISRuntime.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Debug\Esri.ArcGISRuntime.xml
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Debug\ar\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Debug\cs\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Debug\da\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Debug\de\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Debug\el\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Debug\es\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Debug\et\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Debug\fi\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Debug\fr\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Debug\he\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Debug\hr\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Debug\id\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Debug\it\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Debug\ja\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Debug\ko\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Debug\lt\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Debug\lv\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Debug\nb-NO\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Debug\nl\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Debug\no\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Debug\pl\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Debug\pt-BR\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Debug\pt-PT\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Debug\ro\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Debug\ru\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Debug\sr\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Debug\sv\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Debug\th\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Debug\tr\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Debug\vi\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Debug\zh-CN\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Debug\zh-Hans\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Debug\zh-HK\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Debug\zh-TW\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Debug\Interop.esriDataInterop.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Debug\Interop.esriDataInteropUI.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Debug\Interop.esriSearch.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Debug\AxInterop.esriPublisherControls.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\obj\Debug\MapViewer.csprojResolveAssemblyReference.cache
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\obj\Debug\MapViewer.Form1.resources
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\obj\Debug\MapViewer.Properties.Resources.resources
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\obj\Debug\MapViewer.frmSymbol.resources
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\obj\Debug\MapViewer.csproj.GenerateResource.Cache
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\obj\Debug\MapViewer.Form2.resources
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\obj\Debug\MapViewer.CreateFieldForm.resources
+D:\Map Editor\Map Viewer\MapViewer\obj\Debug\MapViewer.csprojResolveAssemblyReference.cache
+D:\Map Editor\Map Viewer\MapViewer\obj\Debug\MapViewer.CreateFieldForm.resources
+D:\Map Editor\Map Viewer\MapViewer\obj\Debug\MapViewer.Form2.resources
+D:\Map Editor\Map Viewer\MapViewer\obj\Debug\MapViewer.frmSymbol.resources

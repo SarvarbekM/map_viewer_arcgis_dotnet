@@ -1,0 +1,169 @@
+D:\Map Editor\Map Viewer\MapViewer\bin\Release\MapViewer.exe.config
+D:\Map Editor\Map Viewer\MapViewer\obj\Release\Interop.esriDataInterop.dll
+D:\Map Editor\Map Viewer\MapViewer\obj\Release\Interop.esriDataInteropUI.dll
+D:\Map Editor\Map Viewer\MapViewer\obj\Release\Interop.esriSearch.dll
+D:\Map Editor\Map Viewer\MapViewer\obj\Release\AxInterop.esriPublisherControls.dll
+D:\Map Editor\Map Viewer\MapViewer\obj\Release\MapViewer.csproj.ResolveComReference.cache
+D:\Map Editor\Map Viewer\MapViewer\bin\Release\MapViewer.exe
+D:\Map Editor\Map Viewer\MapViewer\bin\Release\MapViewer.pdb
+D:\Map Editor\Map Viewer\MapViewer\bin\Release\Esri.ArcGISRuntime.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Release\Esri.ArcGISRuntime.xml
+D:\Map Editor\Map Viewer\MapViewer\bin\Release\ar\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Release\cs\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Release\da\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Release\de\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Release\el\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Release\es\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Release\et\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Release\fi\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Release\fr\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Release\he\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Release\hr\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Release\id\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Release\it\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Release\ja\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Release\ko\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Release\lt\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Release\lv\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Release\nb-NO\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Release\nl\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Release\no\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Release\pl\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Release\pt-BR\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Release\pt-PT\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Release\ro\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Release\ru\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Release\sr\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Release\sv\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Release\th\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Release\tr\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Release\vi\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Release\zh-CN\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Release\zh-Hans\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Release\zh-HK\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Release\zh-TW\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Release\Interop.esriDataInterop.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Release\Interop.esriDataInteropUI.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Release\Interop.esriSearch.dll
+D:\Map Editor\Map Viewer\MapViewer\bin\Release\AxInterop.esriPublisherControls.dll
+D:\Map Editor\Map Viewer\MapViewer\obj\Release\MapViewer.Form1.resources
+D:\Map Editor\Map Viewer\MapViewer\obj\Release\MapViewer.Properties.Resources.resources
+D:\Map Editor\Map Viewer\MapViewer\obj\Release\MapViewer.csproj.GenerateResource.Cache
+D:\Map Editor\Map Viewer\MapViewer\obj\Release\MapViewer.exe
+D:\Map Editor\Map Viewer\MapViewer\obj\Release\MapViewer.pdb
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Release\MapViewer.exe.config
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\obj\Release\Interop.esriDataInterop.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\obj\Release\Interop.esriDataInteropUI.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\obj\Release\Interop.esriSearch.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\obj\Release\AxInterop.esriPublisherControls.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\obj\Release\MapViewer.csproj.ResolveComReference.cache
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\obj\Release\MapViewer.exe
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\obj\Release\MapViewer.pdb
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\obj\Release\MapViewer.csprojResolveAssemblyReference.cache
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\obj\Release\MapViewer.Form1.resources
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\obj\Release\MapViewer.Properties.Resources.resources
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\obj\Release\MapViewer.csproj.GenerateResource.Cache
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Release\MapViewer.exe
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Release\MapViewer.pdb
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Release\Esri.ArcGISRuntime.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Release\Esri.ArcGISRuntime.xml
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Release\ar\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Release\cs\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Release\da\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Release\de\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Release\el\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Release\es\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Release\et\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Release\fi\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Release\fr\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Release\he\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Release\hr\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Release\id\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Release\it\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Release\ja\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Release\ko\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Release\lt\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Release\lv\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Release\nb-NO\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Release\nl\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Release\no\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Release\pl\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Release\pt-BR\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Release\pt-PT\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Release\ro\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Release\ru\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Release\sr\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Release\sv\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Release\th\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Release\tr\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Release\vi\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Release\zh-CN\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Release\zh-Hans\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Release\zh-HK\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Release\zh-TW\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Release\Interop.esriDataInterop.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Release\Interop.esriDataInteropUI.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Release\Interop.esriSearch.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\bin\Release\AxInterop.esriPublisherControls.dll
+D:\Map Editor\Map Viewer (Proverka)\MapViewer\obj\Release\MapViewer.frmSymbol.resources
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Release\MapViewer.exe.config
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\obj\Release\Interop.esriDataInterop.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\obj\Release\Interop.esriDataInteropUI.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\obj\Release\Interop.esriSearch.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\obj\Release\AxInterop.esriPublisherControls.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\obj\Release\MapViewer.csproj.ResolveComReference.cache
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\obj\Release\MapViewer.exe
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\obj\Release\MapViewer.pdb
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Release\MapViewer.exe
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Release\MapViewer.pdb
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Release\Esri.ArcGISRuntime.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Release\Esri.ArcGISRuntime.xml
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Release\ar\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Release\cs\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Release\da\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Release\de\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Release\el\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Release\es\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Release\et\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Release\fi\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Release\fr\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Release\he\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Release\hr\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Release\id\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Release\it\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Release\ja\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Release\ko\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Release\lt\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Release\lv\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Release\nb-NO\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Release\nl\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Release\no\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Release\pl\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Release\pt-BR\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Release\pt-PT\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Release\ro\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Release\ru\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Release\sr\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Release\sv\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Release\th\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Release\tr\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Release\vi\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Release\zh-CN\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Release\zh-Hans\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Release\zh-HK\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Release\zh-TW\Esri.ArcGISRuntime.resources.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Release\Interop.esriDataInterop.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Release\Interop.esriDataInteropUI.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Release\Interop.esriSearch.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\bin\Release\AxInterop.esriPublisherControls.dll
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\obj\Release\MapViewer.csprojResolveAssemblyReference.cache
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\obj\Release\MapViewer.Form1.resources
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\obj\Release\MapViewer.Properties.Resources.resources
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\obj\Release\MapViewer.frmSymbol.resources
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\obj\Release\MapViewer.csproj.GenerateResource.Cache
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\obj\Release\MapViewer.CreateFieldForm.resources
+D:\Map Editor\Map Viewer (Tayyor)\MapViewer\obj\Release\MapViewer.Form2.resources
+D:\Map Editor\Map Viewer\MapViewer\obj\Release\MapViewer.csprojResolveAssemblyReference.cache
+D:\Map Editor\Map Viewer\MapViewer\obj\Release\MapViewer.CreateFieldForm.resources
+D:\Map Editor\Map Viewer\MapViewer\obj\Release\MapViewer.Form2.resources
+D:\Map Editor\Map Viewer\MapViewer\obj\Release\MapViewer.frmSymbol.resources
